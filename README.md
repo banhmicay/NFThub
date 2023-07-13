@@ -13,4 +13,4 @@ One idea for automatic pooling information for the NFT market is to create a dec
 
 6. Trust and Security: Given the importance of security in the NFT market, the platform should prioritize the integrity and authenticity of the data it collects. Implementing blockchain technology or decentralized protocols could help ensure transparency, immutability, and trustworthiness of the aggregated information.
 
-7. By providing an automated and consolidated source of information, analytics, and insights, such a platform would empower NFT market participants to make informed decisions, navigate the market more effectively, and discover new opportunities.
+7. By providing an automated and consolidated source of information, analytics, and insights, such a platform would empower NFT market participants to make informed decisions, navigate the market more effectively, and discover new opportunities...
